@@ -29,13 +29,6 @@ I help build reliability into software and operations. I do DevOps and Automatio
 
 ## Recent Blog Posts
 <!-- blog-post-list:start -->
-Building reliability into software and operations
-
-[Read more](https://vuyisile.com)
-> Last updated: Saturday, October 14, 2023 at 8:41:07 PM
-
-> Showing 5 of 10 posts.
-
 [![On work and layoffs](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/On_work_and_layoffs.svg)](https://vuyisile.com/on-work-and-layoffs/)
 [![Databases in AWS: RDS](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/Databases_in_AWS__RDS.svg)](https://vuyisile.com/databases-in-aws-rds/)
 [![AWS: Auto Scaling](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/AWS__Auto_Scaling.svg)](https://vuyisile.com/aws-auto-scaling/)
