@@ -29,12 +29,10 @@ I help build reliability into software and operations. I do DevOps and Automatio
 
 ## Recent Blog Posts
 <!-- blog-post-list:start -->
-## Vuyisile Ndlovu
-
 Building reliability into software and operations
 
 [Read more](https://vuyisile.com)
-> Last updated: Saturday, October 14, 2023 at 8:36:16 PM
+> Last updated: Saturday, October 14, 2023 at 8:41:07 PM
 
 > Showing 5 of 10 posts.
 
