@@ -16,6 +16,10 @@ jobs:
         with:
           feed_urls: "https://vuyisile.com/feed/"
           show_feed_title: false
+          show_feed_description: false
+          show_read_more: false
+          show_last_updated_date: false
+          show_feed_data: false
 
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
