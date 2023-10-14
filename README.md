@@ -24,8 +24,8 @@ I help build reliability into software and operations. I do DevOps and Automatio
 
 ## Featured Projects
 
-- PyPICache
-- Invoices
+- [PyPICache](https://terrameijar.github.io/PyPICache/)
+- [Invoices](https://github.com/terrameijar/invoices)
 
 ## Recent Blog Posts
 <!-- blog-post-list:start -->
@@ -39,13 +39,8 @@ I help build reliability into software and operations. I do DevOps and Automatio
   <a href="mailto:vuyisilendlovu@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
 </p>
 
-- Twitter
-- LinkedIn
-- [Website](https://vuyisile.com)
-- Mastodon
-
 
 ## Visitor Count
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=terrameijar)
 
