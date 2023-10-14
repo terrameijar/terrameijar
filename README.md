@@ -27,7 +27,7 @@ I help build reliability into software and operations. I do DevOps and Automatio
 - [PyPICache](https://terrameijar.github.io/PyPICache/)
 - [Invoices](https://github.com/terrameijar/invoices)
 
-## Recent Blog Posts
+## Recent Blog Posts:
 <!-- blog-post-list:start -->
 [![On work and layoffs](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/On_work_and_layoffs.svg)](https://vuyisile.com/on-work-and-layoffs/)
 [![Databases in AWS: RDS](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/Databases_in_AWS__RDS.svg)](https://vuyisile.com/databases-in-aws-rds/)
