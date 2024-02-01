@@ -30,11 +30,11 @@ I help build reliability into software and operations. I do DevOps and Automatio
 
 ## Recent Blog Posts:
 <!-- blog-post-list:start -->
-[![Deploying a Django + Nginx application to a VPS with ansible](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/Deploying_a_Django_+_Nginx_application_to_a_VPS_with_ansible.svg)](https://vuyisile.com/deploying-a-django-nginx-application-to-a-vps-with-ansible/)
-[![On work and layoffs](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/On_work_and_layoffs.svg)](https://vuyisile.com/on-work-and-layoffs/)
-[![Databases in AWS: RDS](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/Databases_in_AWS__RDS.svg)](https://vuyisile.com/databases-in-aws-rds/)
-[![AWS: Auto Scaling](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/AWS__Auto_Scaling.svg)](https://vuyisile.com/aws-auto-scaling/)
-[![High Availability: Load Balancers and Auto Scaling](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/High_Availability__Load_Balancers_and_Auto_Scaling.svg)](https://vuyisile.com/high-availability-load-balancers-and-auto-scaling/)
+[![Bulawayo Python January 2024 Meetup](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Bulawayo_Python_January_2024_Meetup.svg)](https://vuyisile.com/bulawayo-python-january-2024-meetup/)
+[![High Availability in PostgreSQL: Replication with Docker](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/High_Availability_in_PostgreSQL__Replication_with_Docker.svg)](https://vuyisile.com/high-availability-in-postgresql-replication-with-docker/)
+[![Clean Code Chapter 4 Summary: Comments](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Clean_Code_Chapter_4_Summary__Comments.svg)](https://vuyisile.com/clean-code-chapter-4-summary-comments/)
+[![How to setup a static website with SSL/TLS, using Amazon S3 and CloudFront](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/How_to_setup_a_static_website_with_SSL_TLS__using_Amazon_S3_and_CloudFront.svg)](https://vuyisile.com/how-to-setup-a-static-website-with-ssl-tls-using-amazon-s3-and-cloudfront/)
+[![Ways to free up disk space on Ubuntu Linux Servers](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Ways_to_free_up_disk_space_on_Ubuntu_Linux_Servers.svg)](https://vuyisile.com/ways-to-free-up-disk-space-on-ubuntu-linux-servers/)
 
 
 <!-- blog-post-list:end -->
