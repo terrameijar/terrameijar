@@ -30,11 +30,11 @@ I help build reliability into software and operations. I do DevOps and Automatio
 
 ## Recent Blog Posts:
 <!-- blog-post-list:start -->
+[![Deploying a Django + Nginx application to a VPS with ansible](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/Deploying_a_Django_+_Nginx_application_to_a_VPS_with_ansible.svg)](https://vuyisile.com/deploying-a-django-nginx-application-to-a-vps-with-ansible/)
 [![On work and layoffs](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/On_work_and_layoffs.svg)](https://vuyisile.com/on-work-and-layoffs/)
 [![Databases in AWS: RDS](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/Databases_in_AWS__RDS.svg)](https://vuyisile.com/databases-in-aws-rds/)
 [![AWS: Auto Scaling](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/AWS__Auto_Scaling.svg)](https://vuyisile.com/aws-auto-scaling/)
 [![High Availability: Load Balancers and Auto Scaling](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/High_Availability__Load_Balancers_and_Auto_Scaling.svg)](https://vuyisile.com/high-availability-load-balancers-and-auto-scaling/)
-[![AWS EC2 Storage](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/AWS_EC2_Storage.svg)](https://vuyisile.com/aws-ec2-storage/)
 
 
 <!-- blog-post-list:end -->
