@@ -25,6 +25,7 @@ I help build reliability into software and operations. I do DevOps and Automatio
 ## Featured Projects
 
 - [PyPICache](https://terrameijar.github.io/PyPICache/)
+- [DevOps Portfolio](https://github.com/terrameijar/DevOps-Snippets/)
 - [Database Replication](https://vuyisile.com/high-availability-in-postgresql-replication-with-docker/)
 - [Deploying Django + Nginx app to a VPS using ansible](https://vuyisile.com/deploying-a-django-nginx-application-to-a-vps-with-ansible/)
 
