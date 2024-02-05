@@ -30,11 +30,11 @@ I help build reliability into software and operations. I do DevOps and Automatio
 
 ## Recent Blog Posts:
 <!-- blog-post-list:start -->
+[![Creating Two-Tier WordPress Architecture on AWS](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Creating_Two-Tier_WordPress_Architecture_on_AWS.svg)](https://vuyisile.com/creating-two-tier-wordpress-architecture-on-aws/)
 [![Bulawayo Python January 2024 Meetup](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Bulawayo_Python_January_2024_Meetup.svg)](https://vuyisile.com/bulawayo-python-january-2024-meetup/)
 [![High Availability in PostgreSQL: Replication with Docker](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/High_Availability_in_PostgreSQL__Replication_with_Docker.svg)](https://vuyisile.com/high-availability-in-postgresql-replication-with-docker/)
 [![Clean Code Chapter 4 Summary: Comments](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Clean_Code_Chapter_4_Summary__Comments.svg)](https://vuyisile.com/clean-code-chapter-4-summary-comments/)
 [![How to setup a static website with SSL/TLS, using Amazon S3 and CloudFront](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/How_to_setup_a_static_website_with_SSL_TLS__using_Amazon_S3_and_CloudFront.svg)](https://vuyisile.com/how-to-setup-a-static-website-with-ssl-tls-using-amazon-s3-and-cloudfront/)
-[![Ways to free up disk space on Ubuntu Linux Servers](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Ways_to_free_up_disk_space_on_Ubuntu_Linux_Servers.svg)](https://vuyisile.com/ways-to-free-up-disk-space-on-ubuntu-linux-servers/)
 
 
 <!-- blog-post-list:end -->
