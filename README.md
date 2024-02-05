@@ -6,7 +6,7 @@ I help build reliability into software and operations. I do DevOps and Automatio
 
 - Development
 - Cloud
-- Open-Source
+- Automation
 - GNU/Linux
 - Windows
 
@@ -19,8 +19,7 @@ I help build reliability into software and operations. I do DevOps and Automatio
 - Docker
 - Nginx
 - Docker
-- CircleCI
-- GitHub Actions
+- CI/CD
 
 ## Featured Projects
 
