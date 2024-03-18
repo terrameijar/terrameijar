@@ -4,11 +4,11 @@ I help build reliability into software and operations. I do DevOps and Automatio
 
 ## About Me
 
-- Development
+- Software Development
 - Cloud
 - Automation
-- GNU/Linux
-- Windows
+- Testing
+- Technical Writing
 
 ## Technologies
 
@@ -20,6 +20,9 @@ I help build reliability into software and operations. I do DevOps and Automatio
 - Nginx
 - Docker
 - CI/CD
+- Ansible
+- CloudFormation
+- Kubernetes
 
 ## Featured Projects
 
