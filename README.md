@@ -45,8 +45,8 @@ I help build reliability into software and operations. I do DevOps and Automatio
 ## 🤝Let's Connect
 <p>
   <a href="https://twitter.com/terrameijar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-  <a href="https://dev.to/vndlovu"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/vuyisile-ndlovu-080b3891/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
+  <a href="https://dev.to/vndlovu"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height=25></a> 
   <a href="mailto:vuyisilendlovu@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
 </p>
 
