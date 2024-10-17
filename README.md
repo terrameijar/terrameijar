@@ -1,13 +1,13 @@
 # Vuyisile Ndlovu
 
-I help build reliability into software and operations. I do DevOps and Automation Engineering, developing CI/CD and data pipelines to improve reliability.
+I help build reliability into software and operations. I do development, SysAdmin, DevOps and Automation Engineering, developing tools, CI/CD and data pipelines to improve reliability.
 
 ## About Me
 
 - Software Development
 - Cloud
 - Automation
-- Testing
+- CI/CD pipelines
 - Technical Writing
 
 ## Technologies
@@ -15,10 +15,11 @@ I help build reliability into software and operations. I do DevOps and Automatio
 - AWS
 - Azure
 - Python
+- Bash
+- JavaScript
 - PowerShell
 - Docker
 - Nginx
-- Docker
 - CI/CD
 - Ansible
 - CloudFormation
