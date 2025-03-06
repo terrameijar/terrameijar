@@ -13,17 +13,17 @@ I help build reliability into software and operations. I do development, SysAdmi
 ## Technologies
 
 - AWS
-- Azure
 - Python
 - Bash
+- Docker
+- CI/CD
+- Nginx
+- Ansible
+- Kubernetes
+- Azure
 - JavaScript
 - PowerShell
-- Docker
-- Nginx
-- CI/CD
-- Ansible
 - CloudFormation
-- Kubernetes
 
 ## Portfolio
 
@@ -31,8 +31,8 @@ I help build reliability into software and operations. I do development, SysAdmi
 
 ## Featured Projects
 
-- [PyPICache](https://terrameijar.github.io/PyPICache/) -- An Offline, Raspberry Pi-powered Python package server.
 - [Multi cluster Kubernetes Homelab](https://github.com/terrameijar/homelab-infrastructure) -- A Kubernetes cluster running in my home office.
+- [PyPICache](https://terrameijar.github.io/PyPICache/) -- An Offline, Raspberry Pi-powered Python package server.
 - [Database Replication](https://vuyisile.com/high-availability-in-postgresql-replication-with-docker/) -- A technical blog post on how to configure Postgres for High Availability
 - [Deploying Django + Nginx app to a VPS using ansible](https://vuyisile.com/deploying-a-django-nginx-application-to-a-vps-with-ansible/) -- An article on how to deploy Django apps to AWS
 
