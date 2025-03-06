@@ -39,11 +39,11 @@ I help build reliability into software and operations. I do development, SysAdmi
 ## Recent Blog Posts:
 
 <!-- blog-post-list:start -->
+[![Exposing Homelab services using SSH](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Exposing_Homelab_services_using_SSH.svg)](https://vuyisile.com/exposing-homelab-services-using-ssh/)
+[![Video Processing on AWS: Configuring AWS S3 Bucket Notifications with AWS SQS](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Video_Processing_on_AWS__Configuring_AWS_S3_Bucket_Notifications_with_AWS_SQS.svg)](https://vuyisile.com/video-processing-on-aws-configuring-aws-s3-bucket-notifications-with-aws-sqs/)
 [![How To Self-Host A Web Application](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/How_To_Self-Host_A_Web_Application.svg)](https://vuyisile.com/how-to-self-host-a-web-application/)
 [![Automating DevOps with BitBucket Pipelines: Setting up Deployment Servers](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Automating_DevOps_with_BitBucket_Pipelines__Setting_up_Deployment_Servers.svg)](https://vuyisile.com/automating-devops-with-bitbucket-pipelines-setting-up-deployment-servers/)
 [![How to enable passwordless SSH login](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/How_to_enable_passwordless_SSH_login.svg)](https://vuyisile.com/how-to-enable-passwordless-ssh-login/)
-[![Automating DevOps with Bitbucket Pipelines – Configuring Triggers and Branch Protection Rules](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Automating_DevOps_with_Bitbucket_Pipelines_–_Configuring_Triggers_and_Branch_Protection_Rules.svg)](https://vuyisile.com/automating-bitbucket-pipelines-configuring-triggers-and-branch-protection-rules/)
-[![Git Tags](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Git_Tags.svg)](https://vuyisile.com/git-tags/)
 
 
 <!-- blog-post-list:end -->
