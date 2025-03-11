@@ -1,29 +1,24 @@
 # Vuyisile Ndlovu
 
-I help build reliability into software and operations. I do development, SysAdmin, DevOps and Automation Engineering, developing tools, CI/CD and data pipelines to improve reliability.
+Cloud Native Engineer with a focus on building reliability into software and operations. I do DevOps, Sys Admin and Automation Engineering, developing tools, CI/CD and data pipelines to improve reliability.
 
 ## About Me
 
-- Software Development
 - Cloud
+- Linux 
+- Windows Server
+- Kubernetes
 - Automation
 - CI/CD pipelines
-- Kubernetes
+- Software Development
 
 ## Technologies
-
-- AWS
-- Python
-- Bash
-- Docker
-- CI/CD
-- Nginx
-- Ansible
-- Kubernetes
-- Azure
-- JavaScript
-- PowerShell
-- CloudFormation
+| Cloud Provider | Containers  | Programming Language | IaC              |
+|----------------|-------------|----------------------|------------------|
+| AWS            | Docker      | Python               | Ansible          |
+| Azure DevOps   | Kubernetes  | Bash                 | CloudFormation   |
+|                |             | JavaScript           |                  |
+|                |             | PowerShell           |                  |
 
 ## Portfolio
 
