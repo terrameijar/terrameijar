@@ -35,12 +35,12 @@ Cloud Native Engineer with a focus on building reliability into software and ope
 ## Recent Blog Posts:
 
 <!-- blog-post-list:start -->
-
+[![Set up a VPN using PiVPN](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Set_up_a_VPN_using_PiVPN.svg)](https://vuyisile.com/set-up-a-vpn-using-pivpn/)
+[![How to Turn a USB-Only Scanner into a Wireless Scanner Using SANE and a Raspberry Pi](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/How_to_Turn_a_USB-Only_Scanner_into_a_Wireless_Scanner_Using_SANE_and_a_Raspberry_Pi.svg)](https://vuyisile.com/how-to-turn-a-usb-only-scanner-into-a-wireless-scanner-using-sane-and-a-raspberry-pi/)
 [![Installing Cert-Manager in Kubernetes](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Installing_Cert-Manager_in_Kubernetes.svg)](https://vuyisile.com/installing-cert-manager-in-kubernetes/)
 [![Homelab Kubernetes Cluster](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Homelab_Kubernetes_Cluster.svg)](https://vuyisile.com/homelab-kubernetes-cluster/)
 [![Exposing Homelab services using SSH](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Exposing_Homelab_services_using_SSH.svg)](https://vuyisile.com/exposing-homelab-services-using-ssh/)
-[![Video Processing on AWS: Configuring AWS S3 Bucket Notifications with AWS SQS](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Video_Processing_on_AWS__Configuring_AWS_S3_Bucket_Notifications_with_AWS_SQS.svg)](https://vuyisile.com/video-processing-on-aws-configuring-aws-s3-bucket-notifications-with-aws-sqs/)
-[![How To Self-Host A Web Application](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/How_To_Self-Host_A_Web_Application.svg)](https://vuyisile.com/how-to-self-host-a-web-application/)
+
 
 <!-- blog-post-list:end -->
 
