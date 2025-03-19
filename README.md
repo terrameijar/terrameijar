@@ -5,7 +5,7 @@ Cloud Native Engineer with a focus on building reliability into software and ope
 ## About Me
 
 - Cloud
-- Linux 
+- Linux
 - Windows Server
 - Kubernetes
 - Automation
@@ -13,12 +13,13 @@ Cloud Native Engineer with a focus on building reliability into software and ope
 - Software Development
 
 ## Technologies
-| Cloud Provider | Containers  | Programming Language | IaC              |
-|----------------|-------------|----------------------|------------------|
-| AWS            | Docker      | Python               | Ansible          |
-| Azure DevOps   | Kubernetes  | Bash                 | CloudFormation   |
-|                |             | JavaScript           |                  |
-|                |             | PowerShell           |                  |
+
+| Cloud Provider | Containers | Programming Language | IaC            |
+| -------------- | ---------- | -------------------- | -------------- |
+| AWS            | Docker     | Python               | Ansible        |
+| Azure DevOps   | Kubernetes | Bash                 | CloudFormation |
+|                |            | JavaScript           |                |
+|                |            | PowerShell           |                |
 
 ## Portfolio
 
@@ -34,14 +35,18 @@ Cloud Native Engineer with a focus on building reliability into software and ope
 ## Recent Blog Posts:
 
 <!-- blog-post-list:start -->
+
 [![Installing Cert-Manager in Kubernetes](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Installing_Cert-Manager_in_Kubernetes.svg)](https://vuyisile.com/installing-cert-manager-in-kubernetes/)
 [![Homelab Kubernetes Cluster](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Homelab_Kubernetes_Cluster.svg)](https://vuyisile.com/homelab-kubernetes-cluster/)
 [![Exposing Homelab services using SSH](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Exposing_Homelab_services_using_SSH.svg)](https://vuyisile.com/exposing-homelab-services-using-ssh/)
 [![Video Processing on AWS: Configuring AWS S3 Bucket Notifications with AWS SQS](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Video_Processing_on_AWS__Configuring_AWS_S3_Bucket_Notifications_with_AWS_SQS.svg)](https://vuyisile.com/video-processing-on-aws-configuring-aws-s3-bucket-notifications-with-aws-sqs/)
 [![How To Self-Host A Web Application](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/How_To_Self-Host_A_Web_Application.svg)](https://vuyisile.com/how-to-self-host-a-web-application/)
 
-
 <!-- blog-post-list:end -->
+
+## Buy Me Coffee
+
+<a href="https://www.buymeacoffee.com/vuyisile" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## 🤝Let's Connect
 
