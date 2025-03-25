@@ -1,10 +1,8 @@
 name: Generate Blog List
 
 on:
-  push:
-    schedule:
-      - cron "0 */1 * * *"
-
+  schedule:
+    - cron: "30 2 * * *"
 jobs:
   blog:
     runs-on: ubuntu-latest
