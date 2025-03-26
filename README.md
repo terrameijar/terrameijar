@@ -35,11 +35,11 @@ Cloud Native Engineer with a focus on building reliability into software and ope
 ## Recent Blog Posts:
 
 <!-- blog-post-list:start -->
+[![Deploy Docker Images to DockerHub using GitHub Actions](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Deploy_Docker_Images_to_DockerHub_using_GitHub_Actions.svg)](https://vuyisile.com/deploy-docker-images-to-dockerhub-using-github-actions/)
+[![How to update ingress-nginx to protect against cve 2025-1975](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/How_to_update_ingress-nginx_to_protect_against_cve_2025-1975.svg)](https://vuyisile.com/updating-ingress-nginx-to-protect-against-cve-2025-1975/)
+[![Deploying Wallabag to Kubernetes](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Deploying_Wallabag_to_Kubernetes.svg)](https://vuyisile.com/deploying-wallabag-to-kubernetes/)
 [![Set up a VPN using PiVPN](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Set_up_a_VPN_using_PiVPN.svg)](https://vuyisile.com/set-up-a-vpn-using-pivpn/)
 [![How to Turn a USB-Only Scanner into a Wireless Scanner Using SANE and a Raspberry Pi](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/How_to_Turn_a_USB-Only_Scanner_into_a_Wireless_Scanner_Using_SANE_and_a_Raspberry_Pi.svg)](https://vuyisile.com/how-to-turn-a-usb-only-scanner-into-a-wireless-scanner-using-sane-and-a-raspberry-pi/)
-[![Installing Cert-Manager in Kubernetes](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Installing_Cert-Manager_in_Kubernetes.svg)](https://vuyisile.com/installing-cert-manager-in-kubernetes/)
-[![Homelab Kubernetes Cluster](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Homelab_Kubernetes_Cluster.svg)](https://vuyisile.com/homelab-kubernetes-cluster/)
-[![Exposing Homelab services using SSH](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Exposing_Homelab_services_using_SSH.svg)](https://vuyisile.com/exposing-homelab-services-using-ssh/)
 
 
 <!-- blog-post-list:end -->
