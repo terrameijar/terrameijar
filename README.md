@@ -35,11 +35,11 @@ Cloud Native Engineer with a focus on building reliability into software and ope
 ## Recent Blog Posts:
 
 <!-- blog-post-list:start -->
+[![The History of Virtual Machines and Containers](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/The_History_of_Virtual_Machines_and_Containers.svg)](https://vuyisile.com/the-history-of-virtual-machines-and-containers/)
 [![Setting Up Continuous Integration with GitHub Actions for a Python Project](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Setting_Up_Continuous_Integration_with_GitHub_Actions_for_a_Python_Project.svg)](https://vuyisile.com/setting-up-continuous-integration-with-github-actions-for-a-python-project/)
 [![Deploy Docker Images to DockerHub using GitHub Actions](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Deploy_Docker_Images_to_DockerHub_using_GitHub_Actions.svg)](https://vuyisile.com/deploy-docker-images-to-dockerhub-using-github-actions/)
 [![How to update ingress-nginx to protect against cve 2025-1975](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/How_to_update_ingress-nginx_to_protect_against_cve_2025-1975.svg)](https://vuyisile.com/updating-ingress-nginx-to-protect-against-cve-2025-1975/)
 [![Deploying Wallabag to Kubernetes](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Deploying_Wallabag_to_Kubernetes.svg)](https://vuyisile.com/deploying-wallabag-to-kubernetes/)
-[![Set up a VPN using PiVPN](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Set_up_a_VPN_using_PiVPN.svg)](https://vuyisile.com/set-up-a-vpn-using-pivpn/)
 
 
 <!-- blog-post-list:end -->
