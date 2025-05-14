@@ -36,11 +36,11 @@ Cloud Native Engineer with a focus on building reliability into software and ope
 
 <!-- blog-post-list:start -->
 
-[![Set up a VPN using PiVPN](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Set_up_a_VPN_using_PiVPN.svg)](https://vuyisile.com/set-up-a-vpn-using-pivpn/)
-[![How to Turn a USB-Only Scanner into a Wireless Scanner Using SANE and a Raspberry Pi](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/How_to_Turn_a_USB-Only_Scanner_into_a_Wireless_Scanner_Using_SANE_and_a_Raspberry_Pi.svg)](https://vuyisile.com/how-to-turn-a-usb-only-scanner-into-a-wireless-scanner-using-sane-and-a-raspberry-pi/)
-[![Installing Cert-Manager in Kubernetes](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Installing_Cert-Manager_in_Kubernetes.svg)](https://vuyisile.com/installing-cert-manager-in-kubernetes/)
-[![Homelab Kubernetes Cluster](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Homelab_Kubernetes_Cluster.svg)](https://vuyisile.com/homelab-kubernetes-cluster/)
-[![Exposing Homelab services using SSH](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Exposing_Homelab_services_using_SSH.svg)](https://vuyisile.com/exposing-homelab-services-using-ssh/)
+[![Why my ingress-nginx failed after reboot, and how I fixed it with static IPs in MetalLB](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Why_my_ingress-nginx_failed_after_reboot__and_how_I_fixed_it_with_static_IPs_in_MetalLB.svg)](https://vuyisile.com/why-my-ingress-nginx-failed-after-reboot/)
+[![Deleting files older than 90 days in AWS S3](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Deleting_files_older_than_90_days_in_AWS_S3.svg)](https://vuyisile.com/s3-lifecycle-rules-for-wordpress-backups-deleting-files-older-than-90-days/)
+[![The History of Virtual Machines and Containers](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/The_History_of_Virtual_Machines_and_Containers.svg)](https://vuyisile.com/the-history-of-virtual-machines-and-containers/)
+[![Setting Up Continuous Integration with GitHub Actions for a Python Project](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Setting_Up_Continuous_Integration_with_GitHub_Actions_for_a_Python_Project.svg)](https://vuyisile.com/setting-up-continuous-integration-with-github-actions-for-a-python-project/)
+[![Deploy Docker Images to DockerHub using GitHub Actions](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Deploy_Docker_Images_to_DockerHub_using_GitHub_Actions.svg)](https://vuyisile.com/deploy-docker-images-to-dockerhub-using-github-actions/)
 
 <!-- blog-post-list:end -->
 
