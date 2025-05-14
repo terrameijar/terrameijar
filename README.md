@@ -27,20 +27,20 @@ Cloud Native Engineer with a focus on building reliability into software and ope
 
 ## Featured Projects
 
-- [Multi cluster Kubernetes Homelab](https://github.com/terrameijar/homelab-infrastructure) -- A Kubernetes cluster running in my home office.
+- [Multi cluster Kubernetes Homelab](https://github.com/terrameijar/homelab-infrastructure) -- A bare-metal, self-hosted, 2 node Kubernetes cluster with monitoring, observability, automated backups, TLS/SSL renewals, load balancing, GitOps with FluxCD and AWS integration.
 - [PyPICache](https://terrameijar.github.io/PyPICache/) -- An Offline, Raspberry Pi-powered Python package server.
 - [Database Replication](https://vuyisile.com/high-availability-in-postgresql-replication-with-docker/) -- A technical blog post on how to configure Postgres for High Availability
-- [Deploying Django + Nginx app to a VPS using ansible](https://vuyisile.com/deploying-a-django-nginx-application-to-a-vps-with-ansible/) -- An article on how to deploy Django apps to AWS
+- [Deploying Django + Nginx app to a VPS using ansible](https://vuyisile.com/deploying-a-django-nginx-application-to-a-vps-with-ansible/) -- Deployment of a Python(Django) web application to AWS Lightsail. Tech set up includes ansible, NGINX and Gunicorn.
 
 ## Recent Blog Posts:
 
 <!-- blog-post-list:start -->
+
 [![Set up a VPN using PiVPN](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Set_up_a_VPN_using_PiVPN.svg)](https://vuyisile.com/set-up-a-vpn-using-pivpn/)
 [![How to Turn a USB-Only Scanner into a Wireless Scanner Using SANE and a Raspberry Pi](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/How_to_Turn_a_USB-Only_Scanner_into_a_Wireless_Scanner_Using_SANE_and_a_Raspberry_Pi.svg)](https://vuyisile.com/how-to-turn-a-usb-only-scanner-into-a-wireless-scanner-using-sane-and-a-raspberry-pi/)
 [![Installing Cert-Manager in Kubernetes](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Installing_Cert-Manager_in_Kubernetes.svg)](https://vuyisile.com/installing-cert-manager-in-kubernetes/)
 [![Homelab Kubernetes Cluster](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Homelab_Kubernetes_Cluster.svg)](https://vuyisile.com/homelab-kubernetes-cluster/)
 [![Exposing Homelab services using SSH](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Exposing_Homelab_services_using_SSH.svg)](https://vuyisile.com/exposing-homelab-services-using-ssh/)
-
 
 <!-- blog-post-list:end -->
 
