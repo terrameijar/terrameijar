@@ -35,12 +35,12 @@ Cloud Native Engineer with a focus on building reliability into software and ope
 ## Recent Blog Posts:
 
 <!-- blog-post-list:start -->
+[![How A Bad Firewall Rule Broke My Network](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/How_A_Bad_Firewall_Rule_Broke_My_Network.svg)](https://vuyisile.com/how-a-bad-firewall-rule-broke-my-network/)
+[![Why my ingress-nginx failed after reboot, and how I fixed it with static IPs in MetalLB](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/Why_my_ingress-nginx_failed_after_reboot__and_how_I_fixed_it_with_static_IPs_in_MetalLB.svg)](https://vuyisile.com/why-my-ingress-nginx-failed-after-reboot/)
+[![Deleting files older than 90 days in AWS S3](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/Deleting_files_older_than_90_days_in_AWS_S3.svg)](https://vuyisile.com/s3-lifecycle-rules-for-wordpress-backups-deleting-files-older-than-90-days/)
+[![The History of Virtual Machines and Containers](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/The_History_of_Virtual_Machines_and_Containers.svg)](https://vuyisile.com/the-history-of-virtual-machines-and-containers/)
+[![Setting Up Continuous Integration with GitHub Actions for a Python Project](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/Setting_Up_Continuous_Integration_with_GitHub_Actions_for_a_Python_Project.svg)](https://vuyisile.com/setting-up-continuous-integration-with-github-actions-for-a-python-project/)
 
-[![Why my ingress-nginx failed after reboot, and how I fixed it with static IPs in MetalLB](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Why_my_ingress-nginx_failed_after_reboot__and_how_I_fixed_it_with_static_IPs_in_MetalLB.svg)](https://vuyisile.com/why-my-ingress-nginx-failed-after-reboot/)
-[![Deleting files older than 90 days in AWS S3](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Deleting_files_older_than_90_days_in_AWS_S3.svg)](https://vuyisile.com/s3-lifecycle-rules-for-wordpress-backups-deleting-files-older-than-90-days/)
-[![The History of Virtual Machines and Containers](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/The_History_of_Virtual_Machines_and_Containers.svg)](https://vuyisile.com/the-history-of-virtual-machines-and-containers/)
-[![Setting Up Continuous Integration with GitHub Actions for a Python Project](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Setting_Up_Continuous_Integration_with_GitHub_Actions_for_a_Python_Project.svg)](https://vuyisile.com/setting-up-continuous-integration-with-github-actions-for-a-python-project/)
-[![Deploy Docker Images to DockerHub using GitHub Actions](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile's_Blog/Deploy_Docker_Images_to_DockerHub_using_GitHub_Actions.svg)](https://vuyisile.com/deploy-docker-images-to-dockerhub-using-github-actions/)
 
 <!-- blog-post-list:end -->
 
