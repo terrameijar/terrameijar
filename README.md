@@ -35,11 +35,11 @@ Cloud Native Engineer with a focus on building reliability into software and ope
 ## Recent Blog Posts:
 
 <!-- blog-post-list:start -->
+[![From HDD to SSD: How I fixed an I/O Bottleneck in a Kubernetes Node](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/From_HDD_to_SSD__How_I_fixed_an_I_O_Bottleneck_in_a_Kubernetes_Node.svg)](https://vuyisile.com/from-hdd-to-ssd-how-i-fixed-an-i-o-bottleneck-in-a-kubernetes-node/)
 [![May AWS Tech Meet at FlexiWork](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/May_AWS_Tech_Meet_at_FlexiWork.svg)](https://vuyisile.com/may-aws-tech-meet-at-flexiwork/)
 [![How A Bad Firewall Rule Broke My Network](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/How_A_Bad_Firewall_Rule_Broke_My_Network.svg)](https://vuyisile.com/how-a-bad-firewall-rule-broke-my-network/)
 [![Why my ingress-nginx failed after reboot, and how I fixed it with static IPs in MetalLB](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/Why_my_ingress-nginx_failed_after_reboot__and_how_I_fixed_it_with_static_IPs_in_MetalLB.svg)](https://vuyisile.com/why-my-ingress-nginx-failed-after-reboot/)
 [![Deleting files older than 90 days in AWS S3](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/Deleting_files_older_than_90_days_in_AWS_S3.svg)](https://vuyisile.com/s3-lifecycle-rules-for-wordpress-backups-deleting-files-older-than-90-days/)
-[![The History of Virtual Machines and Containers](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/The_History_of_Virtual_Machines_and_Containers.svg)](https://vuyisile.com/the-history-of-virtual-machines-and-containers/)
 
 
 <!-- blog-post-list:end -->
