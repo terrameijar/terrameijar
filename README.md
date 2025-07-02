@@ -35,11 +35,11 @@ Cloud Native Engineer with a focus on building reliability into software and ope
 ## Recent Blog Posts:
 
 <!-- blog-post-list:start -->
+[![Rollbacks in ArgoCD](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/Rollbacks_in_ArgoCD.svg)](https://vuyisile.com/rollbacks-in-argocd/)
 [![Setting Up a Remote Backend for Terraform Using Azure Storage](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/Setting_Up_a_Remote_Backend_for_Terraform_Using_Azure_Storage.svg)](https://vuyisile.com/setting-up-a-remote-backend-for-terraform-using-azure-storage/)
 [![GitOps with ArgoCD](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/GitOps_with_ArgoCD.svg)](https://vuyisile.com/gitops-with-argocd/)
 [![An intro to Helm](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/An_intro_to_Helm.svg)](https://vuyisile.com/an-intro-to-helm/)
 [![From HDD to SSD: How I fixed an I/O Bottleneck in a Kubernetes Node](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/From_HDD_to_SSD__How_I_fixed_an_I_O_Bottleneck_in_a_Kubernetes_Node.svg)](https://vuyisile.com/from-hdd-to-ssd-how-i-fixed-an-i-o-bottleneck-in-a-kubernetes-node/)
-[![May AWS Tech Meet at FlexiWork](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/May_AWS_Tech_Meet_at_FlexiWork.svg)](https://vuyisile.com/may-aws-tech-meet-at-flexiwork/)
 
 
 <!-- blog-post-list:end -->
