@@ -1,24 +1,23 @@
 # Vuyisile Ndlovu
 
-Cloud Native Engineer with a focus on building reliability into software and operations. I do DevOps, Sys Admin and Automation Engineering, developing tools, CI/CD and data pipelines to improve reliability.
+I'm a Cloud Native Engineer from Zimbabwe who helps teams build reliable systems through automation, DevOps, and infrastructure engineering.
 
-## About Me
+## Tools I Work With
 
-- Cloud
-- Linux
-- Windows Server
-- Kubernetes
-- Automation
-- CI/CD pipelines
-- Software Development
+- Cloud infrastructure (AWS, Azure, Vultr)
+- Linux & Windows Server
+- Kubernetes and Containers
+- CI/CD and Automation
+- Observability & Monitoring (Prometheus, Grafana, CloudWatch)
+- Custom Tools & Scripting
 
 ## Technologies
 
 | Cloud Provider | Containers | Programming Language | IaC            |
 | -------------- | ---------- | -------------------- | -------------- |
 | AWS            | Docker     | Python               | Ansible        |
-| Azure DevOps   | Kubernetes | Bash                 | CloudFormation |
-|                |            | JavaScript           |                |
+| Azure          | Kubernetes | Bash                 | CloudFormation |
+|                |            | JavaScript           | Terraform      |
 |                |            | PowerShell           |                |
 
 ## Portfolio
