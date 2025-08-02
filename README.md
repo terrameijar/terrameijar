@@ -34,12 +34,12 @@ I'm a Cloud Native Engineer from Zimbabwe who helps teams build reliable systems
 ## Recent Blog Posts:
 
 <!-- blog-post-list:start -->
-
 [![How to use Azure Key Vault with the Azure CLI](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/How_to_use_Azure_Key_Vault_with_the_Azure_CLI.svg)](https://vuyisile.com/how-to-use-azure-key-vault-with-the-azure-cli/)
 [![Self-Hosting Planka in Kubernetes: A Lightweight Trello Alternative](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/Self-Hosting_Planka_in_Kubernetes__A_Lightweight_Trello_Alternative.svg)](https://vuyisile.com/self-hosting-planka-in-kubernetes-a-lightweight-trello-alternative/)
 [![Rollbacks in ArgoCD](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/Rollbacks_in_ArgoCD.svg)](https://vuyisile.com/rollbacks-in-argocd/)
 [![Setting Up a Remote Backend for Terraform Using Azure Storage](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/Setting_Up_a_Remote_Backend_for_Terraform_Using_Azure_Storage.svg)](https://vuyisile.com/setting-up-a-remote-backend-for-terraform-using-azure-storage/)
 [![GitOps with ArgoCD](https://raw.githubusercontent.com/terrameijar/terrameijar/main/blog-post-list-output/Vuyisile_Ndlovu/GitOps_with_ArgoCD.svg)](https://vuyisile.com/gitops-with-argocd/)
+
 
 <!-- blog-post-list:end -->
 
